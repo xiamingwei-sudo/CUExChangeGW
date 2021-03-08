@@ -1,0 +1,11 @@
+framework module CUExChangeGW {
+  umbrella header "CUExChangeGW-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CUExChangeGW.Swift {
+    header "CUExChangeGW-Swift.h"
+    requires objc
+}

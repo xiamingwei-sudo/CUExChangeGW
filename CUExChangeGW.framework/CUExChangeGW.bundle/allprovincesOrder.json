@@ -1,0 +1,3137 @@
+[
+  {
+    "cityId": "26b77110-4feb-4172-b9fe-f39c66410547",
+    "cityName": "阿坝藏族羌族自治州",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "A",
+    "sortListStr": "ABCZQZZZZ"
+  },
+  {
+    "cityId": "abe23f4d-e5b2-4cdf-bc7a-6afac7bebccf",
+    "cityName": "安康市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "A",
+    "sortListStr": "AKS"
+  },
+  {
+    "cityId": "5ab6df27-de2a-466a-936e-c30a0df85a7f",
+    "cityName": "阿克苏地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "A",
+    "sortListStr": "AKSDQ"
+  },
+  {
+    "cityId": "a2b82a3c-0f51-49d3-ba50-cd2e5745168f",
+    "cityName": "阿里地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "A",
+    "sortListStr": "ALDQ"
+  },
+  {
+    "cityId": "12cdebac-fb01-49dc-8ef8-03527bcd4fde",
+    "cityName": "阿拉善盟",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "A",
+    "sortListStr": "ALSM"
+  },
+  {
+    "cityId": "12cdebac-fb01-49dc-8ef8-03527bcd123",
+    "cityName": "阿拉尔市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "A",
+    "sortListStr": "ALSM"
+  },
+  {
+    "cityId": "8c4cebe8-c616-4498-995a-7f7e1fa65f07",
+    "cityName": "阿勒泰地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "A",
+    "sortListStr": "ALTDQ"
+  },
+  {
+    "cityId": "ae5ef87a-dd23-4139-bee2-6472ea8acf22",
+    "cityName": "澳门特别行政区",
+    "dataType": 2,
+    "provinceId": "cb3d960c-0e17-473e-b735-0b076d47c79c",
+    "provinceName": "澳门特别行政区",
+    "sortLetters": "A",
+    "sortListStr": "AMTBXZQ"
+  },
+  {
+    "cityId": "c51d9ee4-2a92-410f-97ed-1027fb4cf7b5",
+    "cityName": "安庆市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "A",
+    "sortListStr": "AQS"
+  },
+  {
+    "cityId": "413a067a-b658-4cd4-b529-0f9d8d14e556",
+    "cityName": "安顺市",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "A",
+    "sortListStr": "ASS"
+  },
+  {
+    "cityId": "72fb1f97-c187-49fa-9c5d-3f24cc61c299",
+    "cityName": "鞍山市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "A",
+    "sortListStr": "ASS"
+  },
+  {
+    "cityId": "3c377d19-2eca-4be9-a1f1-77a8177090d0",
+    "cityName": "安阳市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "A",
+    "sortListStr": "AYS"
+  },
+  {
+    "cityId": "c9a3d30a-eaec-4184-977f-c6709a07ab8a",
+    "cityName": "蚌埠市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "B",
+    "sortListStr": "BBS"
+  },
+  {
+    "cityId": "f00ad8a7-be37-483d-b665-373c8c030d33",
+    "cityName": "白城市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "B",
+    "sortListStr": "BCS"
+  },
+  {
+    "cityId": "25b9e80d-fc8a-4cfb-b306-93b73768bb37",
+    "cityName": "保定市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "B",
+    "sortListStr": "BDS"
+  },
+  {
+    "cityId": "29f008a3-f9c8-440c-810f-fdd318b2b1ec",
+    "cityName": "博尔塔拉蒙古自治州",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "B",
+    "sortListStr": "BETLMGZZZ"
+  },
+  {
+    "cityId": "fad6d6cf-383d-4ef4-90dd-2b020e23351b",
+    "cityName": "北海市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "B",
+    "sortListStr": "BHS"
+  },
+  {
+    "cityId": "3a24078c-1184-4afb-a471-711cab81f909",
+    "cityName": "毕节地区",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "B",
+    "sortListStr": "BJDQ"
+  },
+  {
+    "cityId": "ee4f7af5-4007-4009-b81c-8bf8c232b23f",
+    "cityName": "宝鸡市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "B",
+    "sortListStr": "BJS"
+  },
+  {
+    "cityId": "9420aade-7fcb-47b3-bac1-ea204d253a40",
+    "cityName": "北京市",
+    "dataType": 2,
+    "provinceId": "0011",
+    "provinceName": "北京",
+    "sortLetters": "B",
+    "sortListStr": "BJS"
+  },
+  {
+    "cityId": "dae4b8d1-1a18-422e-83aa-ae8a40e63f6d",
+    "cityName": "百色市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "B",
+    "sortListStr": "BSS"
+  },
+  {
+    "cityId": "a33036dc-e507-445e-a924-00f8287654d6",
+    "cityName": "保山市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "B",
+    "sortListStr": "BSS"
+  },
+  {
+    "cityId": "381cc1d0-0bdf-4992-af36-0ad7dab609bc",
+    "cityName": "白山市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "B",
+    "sortListStr": "BSS"
+  },
+  {
+    "cityId": "41721a69-40bf-4f82-bb96-2dd3c03b9707",
+    "cityName": "包头市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "B",
+    "sortListStr": "BTS"
+  },
+  {
+    "cityId": "b7a67c05-0447-459e-ba0b-83bc1c1dd786",
+    "cityName": "本溪市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "B",
+    "sortListStr": "BXS"
+  },
+  {
+    "cityId": "c7ca0469-746d-414a-977f-481104fff97d",
+    "cityName": "巴音郭楞蒙古自治州",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "B",
+    "sortListStr": "BYGLMGZZZ"
+  },
+  {
+    "cityId": "d9f61d3d-f5d5-4679-9d13-093f2dd6fd47",
+    "cityName": "巴彦淖尔市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "B",
+    "sortListStr": "BYNES"
+  },
+  {
+    "cityId": "0ac0c66b-3c57-4b35-b964-6e73c240c4b9",
+    "cityName": "白银市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "B",
+    "sortListStr": "BYS"
+  },
+  {
+    "cityId": "8e211b85-20ec-47dd-9776-36919a586c20",
+    "cityName": "滨州市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "B",
+    "sortListStr": "BZS"
+  },
+  {
+    "cityId": "66710c65-0bdf-4840-b055-267a3592233d",
+    "cityName": "巴中市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "B",
+    "sortListStr": "BZS"
+  },
+  {
+    "cityId": "7e1bdb1f-bd6d-44d1-8ab7-f437242decfb",
+    "cityName": "亳州市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "B",
+    "sortListStr": "BZS"
+  },
+  {
+    "cityId": "844dc883-0d02-4acc-b44c-4ef8c441ff17",
+    "cityName": "长春市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "C",
+    "sortListStr": "CCS"
+  },
+  {
+    "cityId": "68771343-b675-4224-b6b3-599045ae279b",
+    "cityName": "昌都地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "C",
+    "sortListStr": "CDDQ"
+  },
+  {
+    "cityId": "163540e0-190f-4b12-8f9a-9e4ea4dcfb81",
+    "cityName": "承德市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "C",
+    "sortListStr": "CDS"
+  },
+  {
+    "cityId": "2cf23cca-a7b9-4826-a8ef-6dd900ffae3b",
+    "cityName": "成都市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "C",
+    "sortListStr": "CDS"
+  },
+  {
+    "cityId": "cafda78f-f7b9-4049-a1c0-2f1a23037998",
+    "cityName": "常德市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "C",
+    "sortListStr": "CDS"
+  },
+  {
+    "cityId": "e57e376c-8aa3-42cf-915e-3334497d4975",
+    "cityName": "赤峰市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "C",
+    "sortListStr": "CFS"
+  },
+  {
+    "cityId": "306da6ba-a233-4bb5-854d-e3350170275d",
+    "cityName": "巢湖市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "C",
+    "sortListStr": "CHS"
+  },
+  {
+    "cityId": "f542c2be-abae-44a4-a281-13dae0c7d66d",
+    "cityName": "昌吉回族自治州",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "C",
+    "sortListStr": "CJHZZZZ"
+  },
+  {
+    "cityId": "8b21688b-b79b-4bf7-be0f-6dc2c42d2a7d",
+    "cityName": "重庆市",
+    "dataType": 2,
+    "provinceId": "0050",
+    "provinceName": "重庆",
+    "sortLetters": "C",
+    "sortListStr": "CQS"
+  },
+  {
+    "cityId": "2057b61e-6726-4544-99de-454be56ad9e8",
+    "cityName": "长沙市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "C",
+    "sortListStr": "CSS"
+  },
+  {
+    "cityId": "e6df04bc-8ef6-4b58-b734-358a91a9c278",
+    "cityName": "楚雄彝族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "C",
+    "sortListStr": "CXYZZZZ"
+  },
+  {
+    "cityId": "03b873a1-a8c8-4c87-add7-5667952c7a0a",
+    "cityName": "朝阳市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "C",
+    "sortListStr": "CYS"
+  },
+  {
+    "cityId": "109e4928-33c8-4949-bce1-12f00cb17984",
+    "cityName": "崇左市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "a0b51a42-4f66-4ec3-a65e-51d61a89b4b8",
+    "cityName": "潮州市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "d6d2424e-a086-4e79-ba61-68dafaa1ea6d",
+    "cityName": "沧州市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "fe74b0e9-ad83-4855-8583-c49193d04daa",
+    "cityName": "池州市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "f6a9689a-b970-4ae0-b1c7-a047a3ff33a1",
+    "cityName": "滁州市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "c63f0ef9-0c98-45a0-8cb1-b5c36bc96b83",
+    "cityName": "常州市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "bcc48e96-12b1-4d19-850b-c155d3407b4d",
+    "cityName": "长治市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "0c7ab447-6b19-4b83-9af2-22959dcaa0f2",
+    "cityName": "郴州市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "C",
+    "sortListStr": "CZS"
+  },
+  {
+    "cityId": "3ed6a8d1-9052-4502-9cbb-d8463593fb4e",
+    "cityName": "丹东市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "D",
+    "sortListStr": "DDS"
+  },
+  {
+    "cityId": "5cb06346-4b4b-49ff-8d49-df753ed10a22",
+    "cityName": "东莞市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "D",
+    "sortListStr": "DGS"
+  },
+  {
+    "cityId": "b21abebb-942e-4f22-b85f-151fd1431c7b",
+    "cityName": "德宏傣族景颇族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "D",
+    "sortListStr": "DHDZJPZZZZ"
+  },
+  {
+    "cityId": "f3208ae7-4c1f-4a8e-a239-774c0efff470",
+    "cityName": "大理白族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "D",
+    "sortListStr": "DLBZZZZ"
+  },
+  {
+    "cityId": "93170404-dcc4-4321-9275-bc973484a7f7",
+    "cityName": "大连市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "D",
+    "sortListStr": "DLS"
+  },
+  {
+    "cityId": "30fab2f1-8f0d-48ae-9456-b52f7a2c7c9a",
+    "cityName": "大庆市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "D",
+    "sortListStr": "DQS"
+  },
+  {
+    "cityId": "40b4b40e-b0c0-4abf-bb6a-88d4c90ae3b8",
+    "cityName": "迪庆藏族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "D",
+    "sortListStr": "DQZZZZZ"
+  },
+  {
+    "cityId": "7c1ce91d-566f-4942-bbf8-123622542150",
+    "cityName": "大同市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "D",
+    "sortListStr": "DTS"
+  },
+  {
+    "cityId": "9d368aa0-2152-47cc-9eea-bbfaf74919c1",
+    "cityName": "大兴安岭地区",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "D",
+    "sortListStr": "DXALDQ"
+  },
+  {
+    "cityId": "792104f9-a26a-45b6-9405-93595f267d7e",
+    "cityName": "定西市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "D",
+    "sortListStr": "DXS"
+  },
+  {
+    "cityId": "52a71753-7068-401c-a332-97d3284e1a70",
+    "cityName": "东营市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "D",
+    "sortListStr": "DYS"
+  },
+  {
+    "cityId": "bb79feeb-04f0-4843-ae2f-73e23db2a4d2",
+    "cityName": "德阳市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "D",
+    "sortListStr": "DYS"
+  },
+  {
+    "cityId": "9ba4d576-ffb8-482b-8036-9a091606076d",
+    "cityName": "德州市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "D",
+    "sortListStr": "DZS"
+  },
+  {
+    "cityId": "e4894567-4364-40ad-afed-85e04f156f8d",
+    "cityName": "达州市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "D",
+    "sortListStr": "DZS"
+  },
+  {
+    "cityId": "f311239c-790d-49fd-88ec-dac0f3acf762",
+    "cityName": "鄂尔多斯市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "E",
+    "sortListStr": "EEDSS"
+  },
+  {
+    "cityId": "82398c13-a372-437d-92ff-c4398bc4d27c",
+    "cityName": "恩施土家族苗族自治州",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "E",
+    "sortListStr": "ESTJZMZZZZ"
+  },
+  {
+    "cityId": "2083bd22-10ff-4b8f-93c5-cb41287130c3",
+    "cityName": "鄂州市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "E",
+    "sortListStr": "EZS"
+  },
+  {
+    "cityId": "394d6cb1-aea1-4e4d-b547-ec192a7178ab",
+    "cityName": "防城港市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "F",
+    "sortListStr": "FCGS"
+  },
+  {
+    "cityId": "c85c178d-1874-486a-89bb-c5aa4d3cd3d9",
+    "cityName": "佛山市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "F",
+    "sortListStr": "FSS"
+  },
+  {
+    "cityId": "f2aa8698-9333-4c82-b9da-2f9d5e63d92e",
+    "cityName": "抚顺市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "F",
+    "sortListStr": "FSS"
+  },
+  {
+    "cityId": "9deb1a40-5240-43f0-b588-ac62c4a7df00",
+    "cityName": "阜新市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "F",
+    "sortListStr": "FXS"
+  },
+  {
+    "cityId": "df8eacb2-78e6-4867-af8f-90671182a896",
+    "cityName": "阜阳市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "F",
+    "sortListStr": "FYS"
+  },
+  {
+    "cityId": "a4430752-1b2a-4410-9c3d-025b04deea4b",
+    "cityName": "抚州市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "F",
+    "sortListStr": "FZS"
+  },
+  {
+    "cityId": "869d2a60-ca89-43d7-84b6-5514b0f02f66",
+    "cityName": "福州市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "F",
+    "sortListStr": "FZS"
+  },
+  {
+    "cityId": "7cca8dc8-be02-4f7e-84a2-fdf9e7988e32",
+    "cityName": "广安市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "G",
+    "sortListStr": "GAS"
+  },
+  {
+    "cityId": "b79de958-3052-4925-8d27-fbe60723362e",
+    "cityName": "贵港市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "G",
+    "sortListStr": "GGS"
+  },
+  {
+    "cityId": "62508bb3-ffe0-4207-a954-c45a47092b88",
+    "cityName": "桂林市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "G",
+    "sortListStr": "GLS"
+  },
+  {
+    "cityId": "d7647762-9fa9-4089-8c35-73d409059903",
+    "cityName": "果洛藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "G",
+    "sortListStr": "GLZZZZZ"
+  },
+  {
+    "cityId": "a615e89f-bab5-458e-a697-be2cec8f20c1",
+    "cityName": "甘南藏族自治州",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "G",
+    "sortListStr": "GNCZZZZ"
+  },
+  {
+    "cityId": "035eee51-48c3-4391-bf5c-0cbc1b93cf61",
+    "cityName": "固原市",
+    "dataType": 2,
+    "provinceId": "0064",
+    "provinceName": "宁夏回族自治区",
+    "sortLetters": "G",
+    "sortListStr": "GYS"
+  },
+  {
+    "cityId": "74ca1cf6-3a90-450e-816d-105a5de3e094",
+    "cityName": "贵阳市",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "G",
+    "sortListStr": "GYS"
+  },
+  {
+    "cityId": "6f0ce905-93a1-4fbd-8e7c-503896d3b882",
+    "cityName": "广元市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "G",
+    "sortListStr": "GYS"
+  },
+  {
+    "cityId": "99217488-d2d0-4d10-a9c5-cb2108a6daa5",
+    "cityName": "广州市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "G",
+    "sortListStr": "GZS"
+  },
+  {
+    "cityId": "6059a82d-7f9d-4863-b013-cfc723ef8411",
+    "cityName": "赣州市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "G",
+    "sortListStr": "GZS"
+  },
+  {
+    "cityId": "d49eba1b-eab0-4322-a8aa-8b16f7466c63",
+    "cityName": "甘孜藏族自治州",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "G",
+    "sortListStr": "GZZZZZZ"
+  },
+  {
+    "cityId": "cc861651-6672-49d4-945e-347931a744f1",
+    "cityName": "淮安市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "H",
+    "sortListStr": "HAS"
+  },
+  {
+    "cityId": "6e2a045c-0033-4353-836e-363449127a42",
+    "cityName": "鹤壁市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "H",
+    "sortListStr": "HBS"
+  },
+  {
+    "cityId": "5e04f04a-a6df-4dcf-8e3b-5fd10442cb61",
+    "cityName": "淮北市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "H",
+    "sortListStr": "HBS"
+  },
+  {
+    "cityId": "2489823e-ccfa-4a0c-a375-96d48748149d",
+    "cityName": "海北藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "H",
+    "sortListStr": "HBZZZZZ"
+  },
+  {
+    "cityId": "38f71a71-fa64-4489-9ff7-27476712e21f",
+    "cityName": "河池市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "H",
+    "sortListStr": "HCS"
+  },
+  {
+    "cityId": "f1fb3c7b-61c8-4787-ac17-fbc6cc333e2c",
+    "cityName": "海东地区",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "H",
+    "sortListStr": "HDDQ"
+  },
+  {
+    "cityId": "1e5586d9-dfe4-4848-bd05-201c2b2dbd91",
+    "cityName": "邯郸市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "H",
+    "sortListStr": "HDS"
+  },
+  {
+    "cityId": "28fe794f-6fdf-42f0-88fb-482b6bb57ec3",
+    "cityName": "哈尔滨市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "H",
+    "sortListStr": "HEBS"
+  },
+  {
+    "cityId": "d4107a05-c17e-47c1-af35-c3eb19956306",
+    "cityName": "合肥市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "H",
+    "sortListStr": "HFS"
+  },
+  {
+    "cityId": "01344f0a-3242-48fd-aad6-7140042edc0b",
+    "cityName": "鹤岗市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "H",
+    "sortListStr": "HGS"
+  },
+  {
+    "cityId": "0b8e8d8f-08d8-4fef-b226-c20823c16696",
+    "cityName": "黄冈市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "H",
+    "sortListStr": "HGS"
+  },
+  {
+    "cityId": "381635c3-eb99-4270-b37a-991a1bbfc724",
+    "cityName": "红河哈尼族彝族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "H",
+    "sortListStr": "HHHNZYZZZZ"
+  },
+  {
+    "cityId": "eb22903c-ca4e-42cb-8854-9c8e0bc1e8e7",
+    "cityName": "呼和浩特市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "H",
+    "sortListStr": "HHHTS"
+  },
+  {
+    "cityId": "695bb41d-52d4-4be1-b375-438a86e7e348",
+    "cityName": "黑河市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "H",
+    "sortListStr": "HHS"
+  },
+  {
+    "cityId": "f86fc5c4-839c-4b55-8d21-ae72e932fbbe",
+    "cityName": "怀化市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "H",
+    "sortListStr": "HHS"
+  },
+  {
+    "cityId": "49088680-af1f-4a11-8e66-3516bf6559e4",
+    "cityName": "海口市",
+    "dataType": 2,
+    "provinceId": "0046",
+    "provinceName": "海南省",
+    "sortLetters": "H",
+    "sortListStr": "HKS"
+  },
+  {
+    "cityId": "596c467b-fdb7-40a0-b2c3-0cba73bea688",
+    "cityName": "呼伦贝尔市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "H",
+    "sortListStr": "HLBES"
+  },
+  {
+    "cityId": "9f8a938a-aee1-4c0f-ba37-37b378fce03a",
+    "cityName": "葫芦岛市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "H",
+    "sortListStr": "HLDS"
+  },
+  {
+    "cityId": "4e147b7e-f721-40cc-b231-c9cf1bf67559",
+    "cityName": "哈密地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "H",
+    "sortListStr": "HMDQ"
+  },
+  {
+    "cityId": "bfe6feef-7b8c-4301-9810-b2ad8adb88d4",
+    "cityName": "淮南市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "H",
+    "sortListStr": "HNS"
+  },
+  {
+    "cityId": "ac39c604-8e38-4564-90fe-895cfa17c595",
+    "cityName": "黄南藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "H",
+    "sortListStr": "HNZZZZZ"
+  },
+  {
+    "cityId": "b9b1fbaa-2e7d-4502-be74-c1783b624023",
+    "cityName": "海南藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "H",
+    "sortListStr": "HNZZZZZ"
+  },
+  {
+    "cityId": "5bd6eccb-4dc9-4602-937a-a00d3d779df3",
+    "cityName": "衡水市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "H",
+    "sortListStr": "HSS"
+  },
+  {
+    "cityId": "803a43a3-cbe7-4f92-978a-115df72c0c15",
+    "cityName": "黄石市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "H",
+    "sortListStr": "HSS"
+  },
+  {
+    "cityId": "9ddae24c-c6d8-4f13-ba69-31c32b50df43",
+    "cityName": "黄山市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "H",
+    "sortListStr": "HSS"
+  },
+  {
+    "cityId": "08ae5f6e-006e-4130-8417-dfe8e24a916a",
+    "cityName": "和田地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "H",
+    "sortListStr": "HTDQ"
+  },
+  {
+    "cityId": "07f3e9f8-2dd4-453d-93f6-6e6d2715c8e4",
+    "cityName": "海西蒙古族藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "H",
+    "sortListStr": "HXMGZCZZZZ"
+  },
+  {
+    "cityId": "f82a2227-20b4-4ca2-a78d-2c74ce1a76b4",
+    "cityName": "河源市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "H",
+    "sortListStr": "HYS"
+  },
+  {
+    "cityId": "f5d9dd69-bad2-47ee-bd7c-31c6dcddc9e8",
+    "cityName": "衡阳市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "H",
+    "sortListStr": "HYS"
+  },
+  {
+    "cityId": "bac46955-d379-4146-a0b3-defdaadb1a16",
+    "cityName": "贺州市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "10b76e0c-9c22-4a1c-8405-ef251b727d19",
+    "cityName": "湖州市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "a8fefdfa-1ff5-4b99-8493-6aea6d522597",
+    "cityName": "杭州市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "83416a5d-5642-4659-8b97-568cb3f79b59",
+    "cityName": "汉中市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "b7fc9f77-89a8-426b-a7a3-2d7116a5a452",
+    "cityName": "惠州市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "c5155eed-38cb-4acb-a503-1371ad8a1739",
+    "cityName": "菏泽市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "H",
+    "sortListStr": "HZS"
+  },
+  {
+    "cityId": "06d61439-88dc-4823-8778-6e78607f2692",
+    "cityName": "吉安市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "J",
+    "sortListStr": "JAS"
+  },
+  {
+    "cityId": "234b16ea-20f4-41ac-a1f9-e0ccee283ca7",
+    "cityName": "金昌市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "J",
+    "sortListStr": "JCS"
+  },
+  {
+    "cityId": "c9dd0c1f-8dc2-4fe0-b9c6-5f8717ef8066",
+    "cityName": "晋城市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "J",
+    "sortListStr": "JCS"
+  },
+  {
+    "cityId": "9e8e439d-8b91-4cda-904b-68f2232e8d35",
+    "cityName": "景德镇市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "J",
+    "sortListStr": "JDZS"
+  },
+  {
+    "cityId": "9d12babb-ffaf-488d-aa4e-95d4242e07c9",
+    "cityName": "金华市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "J",
+    "sortListStr": "JHS"
+  },
+  {
+    "cityId": "9f7a8666-cbc7-491d-9155-e99af7f812ca",
+    "cityName": "九江市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "J",
+    "sortListStr": "JJS"
+  },
+  {
+    "cityId": "dc1f42ce-1740-417d-92d8-e4d7e82919d2",
+    "cityName": "吉林市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "J",
+    "sortListStr": "JLS"
+  },
+  {
+    "cityId": "9ea06802-3ef6-411b-8af4-fdb1281335bf",
+    "cityName": "江门市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "J",
+    "sortListStr": "JMS"
+  },
+  {
+    "cityId": "7beaee16-f71a-4b85-a9ea-7cc4a4e6d77c",
+    "cityName": "荆门市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "J",
+    "sortListStr": "JMS"
+  },
+  {
+    "cityId": "1514839b-d838-411b-b33a-282e2e72afc6",
+    "cityName": "佳木斯市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "J",
+    "sortListStr": "JMSS"
+  },
+  {
+    "cityId": "50f0a005-db7e-40a5-a92d-d50076cd14ad",
+    "cityName": "济宁市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "J",
+    "sortListStr": "JNS"
+  },
+  {
+    "cityId": "8071d483-4845-474f-ba0f-703885dc0886",
+    "cityName": "济南市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "J",
+    "sortListStr": "JNS"
+  },
+  {
+    "cityId": "3e972ebb-7340-42ff-b25a-7b3e1b38b280",
+    "cityName": "酒泉市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "J",
+    "sortListStr": "JQS"
+  },
+  {
+    "cityId": "1020ae0e-bdcf-4f96-9dc9-e182c120b20b",
+    "cityName": "嘉兴市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "J",
+    "sortListStr": "JXS"
+  },
+  {
+    "cityId": "773a3f4f-0c62-4024-be0f-1180e4da8551",
+    "cityName": "鸡西市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "J",
+    "sortListStr": "JXS"
+  },
+  {
+    "cityId": "3c377d19-2eca-4be9-a1f1-77a8177090d1",
+    "cityName": "济源市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "J",
+    "sortListStr": "JY"
+  },
+  {
+    "cityId": "eeeff971-9b59-4610-baab-557035c74623",
+    "cityName": "嘉峪关市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "J",
+    "sortListStr": "JYGS"
+  },
+  {
+    "cityId": "a88a13bd-0d47-4623-bc6a-3d0416790838",
+    "cityName": "揭阳市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "J",
+    "sortListStr": "JYS"
+  },
+  {
+    "cityId": "9fa69e67-59ed-420b-8532-243b6eab9dce",
+    "cityName": "焦作市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "J",
+    "sortListStr": "JZS"
+  },
+  {
+    "cityId": "1df75cb6-88c5-4969-86b9-e94fb00b4995",
+    "cityName": "荆州市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "J",
+    "sortListStr": "JZS"
+  },
+  {
+    "cityId": "ba82f6f7-294f-4b31-8e48-018c663e851f",
+    "cityName": "锦州市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "J",
+    "sortListStr": "JZS"
+  },
+  {
+    "cityId": "6788ef60-1076-423c-9090-3f874f856fb8",
+    "cityName": "晋中市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "J",
+    "sortListStr": "JZS"
+  },
+  {
+    "cityId": "6cfca218-3815-4d08-a36e-e61a663e13ed",
+    "cityName": "开封市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "K",
+    "sortListStr": "KFS"
+  },
+  {
+    "cityId": "6c71deb8-fb1a-44dc-88da-f8f7d54242c1",
+    "cityName": "克拉玛依市",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "K",
+    "sortListStr": "KLMYS"
+  },
+  {
+    "cityId": "09891418-1858-4821-a77f-ad971f048801",
+    "cityName": "昆明市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "K",
+    "sortListStr": "KMS"
+  },
+  {
+    "cityId": "ef89b763-e04e-4b16-94b0-56be622bf862",
+    "cityName": "喀什地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "K",
+    "sortListStr": "KSDQ"
+  },
+  {
+    "cityId": "6cd445c1-ce8b-4b25-9af1-2a57a7dbc1b6",
+    "cityName": "克孜勒苏柯尔克孜自治州",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "K",
+    "sortListStr": "KZLSKEKZZZZ"
+  },
+  {
+    "cityId": "f63bf98c-1597-4fda-aaf4-171296d17866",
+    "cityName": "六安市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "L",
+    "sortListStr": "LAS"
+  },
+  {
+    "cityId": "dfd657ab-3994-4cda-8b3c-dec470c53be2",
+    "cityName": "来宾市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "L",
+    "sortListStr": "LBS"
+  },
+  {
+    "cityId": "a72a5105-a3ea-49a2-92d9-3da8fefea0d5",
+    "cityName": "临沧市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "L",
+    "sortListStr": "LCS"
+  },
+  {
+    "cityId": "e9f524ef-040e-4c38-aace-af5817737913",
+    "cityName": "聊城市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "L",
+    "sortListStr": "LCS"
+  },
+  {
+    "cityId": "e67edccb-baef-49d3-8aaf-29065726afcd",
+    "cityName": "娄底市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "L",
+    "sortListStr": "LDS"
+  },
+  {
+    "cityId": "574a224c-5de1-4ccf-9064-ab339b00ddc0",
+    "cityName": "廊坊市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "L",
+    "sortListStr": "LFS"
+  },
+  {
+    "cityId": "0ccc7d65-da6e-41da-bbd9-69ce8cedebdc",
+    "cityName": "临汾市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "L",
+    "sortListStr": "LFS"
+  },
+  {
+    "cityId": "6bef71a6-b05e-42a4-aec3-bd3712ae117c",
+    "cityName": "漯河市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "L",
+    "sortListStr": "LHS"
+  },
+  {
+    "cityId": "88aa9345-0fdd-4d55-b5db-2dc45fa1e158",
+    "cityName": "丽江市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "L",
+    "sortListStr": "LJS"
+  },
+  {
+    "cityId": "437237fb-73ad-4d92-b385-20c19c25ba33",
+    "cityName": "吕梁市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "L",
+    "sortListStr": "LLS"
+  },
+  {
+    "cityId": "4478ea57-28ea-47f7-a783-4ee899ee4283",
+    "cityName": "陇南市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "L",
+    "sortListStr": "LNS"
+  },
+  {
+    "cityId": "be7919ae-8c59-4184-bf6a-d472396d1183",
+    "cityName": "六盘水市",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "L",
+    "sortListStr": "LPSS"
+  },
+  {
+    "cityId": "8193d0d2-5efb-4c8b-9d19-45be3b4c5116",
+    "cityName": "丽水市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "L",
+    "sortListStr": "LSS"
+  },
+  {
+    "cityId": "de67eb5f-592f-4887-a796-b8260b714b69",
+    "cityName": "拉萨市",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "L",
+    "sortListStr": "LSS"
+  },
+  {
+    "cityId": "c174bb33-a116-4c36-945c-55922b1b8a8f",
+    "cityName": "乐山市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "L",
+    "sortListStr": "LSS"
+  },
+  {
+    "cityId": "ac9c9bf5-b8bd-429f-a3c2-4934413e2ae3",
+    "cityName": "凉山彝族自治州",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "L",
+    "sortListStr": "LSYZZZZ"
+  },
+  {
+    "cityId": "89c30809-c6d3-49a0-9edb-ee9525fdc9ff",
+    "cityName": "莱芜市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "L",
+    "sortListStr": "LWS"
+  },
+  {
+    "cityId": "be57a30e-88e9-45d5-9f43-7fabf7b6615f",
+    "cityName": "临夏回族自治州",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "L",
+    "sortListStr": "LXHZZZZ"
+  },
+  {
+    "cityId": "2f50ff12-6a10-4b8c-9d6a-167240c8e4d3",
+    "cityName": "连云港市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "L",
+    "sortListStr": "LYGS"
+  },
+  {
+    "cityId": "1dc771c9-c07c-450f-b932-843ef0dd0c16",
+    "cityName": "临沂市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "L",
+    "sortListStr": "LYS"
+  },
+  {
+    "cityId": "4ab3f1d8-1aa5-491b-b5f2-93097858cbfb",
+    "cityName": "洛阳市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "L",
+    "sortListStr": "LYS"
+  },
+  {
+    "cityId": "d6ebb4b5-1cb4-4271-b666-f52c1e3383f0",
+    "cityName": "龙岩市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "L",
+    "sortListStr": "LYS"
+  },
+  {
+    "cityId": "e8699bfb-8ad9-42a0-b3e7-2b0f97e2598c",
+    "cityName": "辽源市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "L",
+    "sortListStr": "LYS"
+  },
+  {
+    "cityId": "697cceab-09d6-4ee9-bbbf-ea8f14365b54",
+    "cityName": "辽阳市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "L",
+    "sortListStr": "LYS"
+  },
+  {
+    "cityId": "6ebb88b4-711b-4641-ae75-0448a55cb91d",
+    "cityName": "林芝地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "L",
+    "sortListStr": "LZDQ"
+  },
+  {
+    "cityId": "689da1d2-951f-4b64-9208-e762be59bdc1",
+    "cityName": "柳州市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "L",
+    "sortListStr": "LZS"
+  },
+  {
+    "cityId": "ab9a38b2-8537-437f-ba29-87a0baeeb64d",
+    "cityName": "兰州市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "L",
+    "sortListStr": "LZS"
+  },
+  {
+    "cityId": "bda897ba-01e2-474e-b5cb-49f678a8cb86",
+    "cityName": "泸州市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "L",
+    "sortListStr": "LZS"
+  },
+  {
+    "cityId": "9907d78b-7042-451e-9a1d-6e5639af1aa7",
+    "cityName": "马鞍山市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "M",
+    "sortListStr": "MASS"
+  },
+  {
+    "cityId": "1841df8b-2721-4179-9a5d-4abd1c8937f7",
+    "cityName": "牡丹江市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "M",
+    "sortListStr": "MDJS"
+  },
+  {
+    "cityId": "a9df690b-4c9c-44bb-b60e-c531117dd43d",
+    "cityName": "茂名市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "M",
+    "sortListStr": "MMS"
+  },
+  {
+    "cityId": "e09d55e2-02d9-4603-b9a8-c1c1627aa871",
+    "cityName": "眉山市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "M",
+    "sortListStr": "MSS"
+  },
+  {
+    "cityId": "fbca6643-a831-4a86-aa6d-b48f34734383",
+    "cityName": "绵阳市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "M",
+    "sortListStr": "MYS"
+  },
+  {
+    "cityId": "21c8e3c8-3a2b-4194-b4a4-68be293aa6ad",
+    "cityName": "梅州市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "M",
+    "sortListStr": "MZS"
+  },
+  {
+    "cityId": "6d46f05c-5059-4ec7-8aa7-cd9229244cbd",
+    "cityName": "宁波市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "N",
+    "sortListStr": "NBS"
+  },
+  {
+    "cityId": "5c90ed55-a88b-4ce9-8709-50750346ba69",
+    "cityName": "南昌市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "N",
+    "sortListStr": "NCS"
+  },
+  {
+    "cityId": "43a371ca-0ec6-405d-b590-472dee86b150",
+    "cityName": "南充市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "N",
+    "sortListStr": "NCS"
+  },
+  {
+    "cityId": "75e8a1c2-8835-4642-bfb8-d7e58351409a",
+    "cityName": "宁德市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "N",
+    "sortListStr": "NDS"
+  },
+  {
+    "cityId": "33416fef-8cad-4921-b1e6-585f9938d47a",
+    "cityName": "怒江傈僳族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "N",
+    "sortListStr": "NJLSZZZZ"
+  },
+  {
+    "cityId": "a0cfdf55-4393-467c-bb7c-0ba97f5bd7af",
+    "cityName": "内江市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "N",
+    "sortListStr": "NJS"
+  },
+  {
+    "cityId": "6f14e5e3-bcf1-4e56-b844-51f83f90b7b7",
+    "cityName": "南京市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "N",
+    "sortListStr": "NJS"
+  },
+  {
+    "cityId": "798b8282-87ee-446d-8076-91517906d2cd",
+    "cityName": "南宁市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "N",
+    "sortListStr": "NNS"
+  },
+  {
+    "cityId": "2feab6a4-25b6-43ee-b46f-77bca6152336",
+    "cityName": "南平市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "N",
+    "sortListStr": "NPS"
+  },
+  {
+    "cityId": "4745936a-32b9-4db4-9909-5b71b6c2998b",
+    "cityName": "那曲地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "N",
+    "sortListStr": "NQDQ"
+  },
+  {
+    "cityId": "8406cf80-f252-4bf8-9e71-64af14ee2bae",
+    "cityName": "南通市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "N",
+    "sortListStr": "NTS"
+  },
+  {
+    "cityId": "8d7a76b8-f490-48a1-a8ac-5258864ebe47",
+    "cityName": "南阳市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "N",
+    "sortListStr": "NYS"
+  },
+  {
+    "cityId": "d9e45a5a-40eb-4f4b-a2b2-230612fbd559",
+    "cityName": "平顶山市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "P",
+    "sortListStr": "PDSS"
+  },
+  {
+    "cityId": "02b5dfeb-8e1d-4786-9969-e3a5564816f0",
+    "cityName": "盘锦市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "P",
+    "sortListStr": "PJS"
+  },
+  {
+    "cityId": "68cc49c9-f2f1-43c2-812b-fb4702326c0b",
+    "cityName": "平凉市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "P",
+    "sortListStr": "PLS"
+  },
+  {
+    "cityId": "18b1ccf4-f2b0-4b91-aab9-4f6d2b081a08",
+    "cityName": "莆田市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "P",
+    "sortListStr": "PTS"
+  },
+  {
+    "cityId": "ecbd783c-4a22-4270-a94d-d95fec7ebc8d",
+    "cityName": "萍乡市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "P",
+    "sortListStr": "PXS"
+  },
+  {
+    "cityId": "ec8d15e5-43fb-412d-9074-1c06bf4110cc",
+    "cityName": "濮阳市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "P",
+    "sortListStr": "PYS"
+  },
+  {
+    "cityId": "b082e7eb-6d93-4de5-ba66-2904f14fe8fd",
+    "cityName": "攀枝花市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "P",
+    "sortListStr": "PZHS"
+  },
+  {
+    "cityId": "2f662d7b-fc51-495f-8f22-065d7019517c",
+    "cityName": "黔东南苗族侗族自治州",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "Q",
+    "sortListStr": "QDNMZDZZZZ"
+  },
+  {
+    "cityId": "bcaa135c-d1ad-415d-8d43-e6fed4ec545e",
+    "cityName": "青岛市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "Q",
+    "sortListStr": "QDS"
+  },
+  {
+    "cityId": "f0cba361-5604-418f-a388-c0aa5b04651f",
+    "cityName": "秦皇岛市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "Q",
+    "sortListStr": "QHDS"
+  },
+  {
+    "cityId": "5ad150e3-e732-4ef5-93e1-d66d330a2d3f",
+    "cityName": "曲靖市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "Q",
+    "sortListStr": "QJS"
+  },
+  {
+    "cityId": "077f1c32-c977-44dc-889f-5bc37e06cb55",
+    "cityName": "黔南布依族苗族自治州",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "Q",
+    "sortListStr": "QNBYZMZZZZ"
+  },
+  {
+    "cityId": "f09a3b3a-f68f-4941-a504-551a2f9d3275",
+    "cityName": "齐齐哈尔市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "Q",
+    "sortListStr": "QQHES"
+  },
+  {
+    "cityId": "17a95d4a-958c-4e4d-b7b8-289a92eb5370",
+    "cityName": "七台河市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "Q",
+    "sortListStr": "QTHS"
+  },
+  {
+    "cityId": "6f193bc3-7bab-4ed6-ae8a-3e3e777a3c2f",
+    "cityName": "黔西南布依族苗族自治州",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "Q",
+    "sortListStr": "QXNBYZMZZZZ"
+  },
+  {
+    "cityId": "c7b2883b-ec94-4360-b1bc-37b6f83254ef",
+    "cityName": "清远市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Q",
+    "sortListStr": "QYS"
+  },
+  {
+    "cityId": "cf4bcf15-163b-4786-93b3-eb71b6591549",
+    "cityName": "庆阳市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "Q",
+    "sortListStr": "QYS"
+  },
+  {
+    "cityId": "d0f17d91-f06e-445c-959a-0817379325ca",
+    "cityName": "钦州市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "Q",
+    "sortListStr": "QZS"
+  },
+  {
+    "cityId": "995084b3-5206-4c09-a9ee-f7cfcb43f9c2",
+    "cityName": "泉州市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "Q",
+    "sortListStr": "QZS"
+  },
+  {
+    "cityId": "5a6785ed-9945-482a-ae4f-bc823e84a7ca",
+    "cityName": "衢州市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "Q",
+    "sortListStr": "QZS"
+  },
+  {
+    "cityId": "1118df59-f071-4ac9-b072-db053b509ee1",
+    "cityName": "日喀则地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "R",
+    "sortListStr": "RKZDQ"
+  },
+  {
+    "cityId": "0deae1d7-d490-4cf7-a5c4-fe39e5823584",
+    "cityName": "日照市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "R",
+    "sortListStr": "RZS"
+  },
+  {
+    "cityId": "e47a0e01-778e-4184-9f1c-ecd0604e1e99",
+    "cityName": "韶关市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "S",
+    "sortListStr": "SGS"
+  },
+  {
+    "cityId": "7d04e3a1-ee87-431c-9aa7-ac245014c51a",
+    "cityName": "上海市",
+    "dataType": 2,
+    "provinceId": "0031",
+    "provinceName": "上海",
+    "sortLetters": "S",
+    "sortListStr": "SHS"
+  },
+  {
+    "cityId": "4a70ff61-9fd8-4af4-8d42-5359d5bf1a58",
+    "cityName": "绥化市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "S",
+    "sortListStr": "SHS"
+  },
+  {
+    "cityId": "7d04e3a1-ee87-431c-9aa7-ac245014c51ad",
+    "cityName": "石河子市",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "S",
+    "sortListStr": "SHZS"
+  },
+  {
+    "cityId": "db3c573e-db36-4513-b5ca-56fc3fbd0d7a",
+    "cityName": "石家庄市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "S",
+    "sortListStr": "SJZS"
+  },
+  {
+    "cityId": "d57f680b-7fc0-439c-864d-fd918f6011c6",
+    "cityName": "商洛市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "S",
+    "sortListStr": "SLS"
+  },
+  {
+    "cityId": "da21e4c6-342e-4d6a-b8e5-c9252b2b5c29",
+    "cityName": "思茅市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "S",
+    "sortListStr": "SMS"
+  },
+  {
+    "cityId": "b1e7c5e9-a8bc-4145-b426-ad2e3703d73f",
+    "cityName": "三明市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "S",
+    "sortListStr": "SMS"
+  },
+  {
+    "cityId": "26fa03cc-20a7-4eec-b9b2-9b0509f7a0b7",
+    "cityName": "三门峡市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "S",
+    "sortListStr": "SMXS"
+  },
+  {
+    "cityId": "b3afcc88-7eb6-4631-b0f9-ab62da1d81b6",
+    "cityName": "山南地区",
+    "dataType": 2,
+    "provinceId": "0054",
+    "provinceName": "西藏自治区",
+    "sortLetters": "S",
+    "sortListStr": "SNDQ"
+  },
+  {
+    "cityId": "b3afcc88-7eb6-4631-b0f9-ab62da1d81b6",
+    "cityName": "神农架市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "S",
+    "sortListStr": "SNJS"
+  },
+  {
+    "cityId": "37048ec1-dc9f-4323-9a7d-505e2ed35b4f",
+    "cityName": "遂宁市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "S",
+    "sortListStr": "SNS"
+  },
+  {
+    "cityId": "0b8e19df-3f55-4b22-9c93-5c471239f7d0",
+    "cityName": "四平市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "S",
+    "sortListStr": "SPS"
+  },
+  {
+    "cityId": "d6957be9-f7e0-46f4-9c68-e33185803898",
+    "cityName": "商丘市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "S",
+    "sortListStr": "SQS"
+  },
+  {
+    "cityId": "224d3443-baea-4965-bbec-d0b4bc0b0a8d",
+    "cityName": "宿迁市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "S",
+    "sortListStr": "SQS"
+  },
+  {
+    "cityId": "738b9cd6-19af-4f85-a566-4b4ecf6a78b9",
+    "cityName": "上饶市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "S",
+    "sortListStr": "SRS"
+  },
+  {
+    "cityId": "9c2c6967-8f28-4f78-bc84-41523e931833",
+    "cityName": "汕头市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "S",
+    "sortListStr": "STS"
+  },
+  {
+    "cityId": "f1afba3d-170d-40b7-939c-e6687fc40ab3",
+    "cityName": "汕尾市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "S",
+    "sortListStr": "SWS"
+  },
+  {
+    "cityId": "01864ca2-65cc-4562-8b7f-04328948339c",
+    "cityName": "绍兴市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "S",
+    "sortListStr": "SXS"
+  },
+  {
+    "cityId": "a7d45c49-3d3e-42a1-ad17-c3392280fe0e",
+    "cityName": "三亚市",
+    "dataType": 2,
+    "provinceId": "0046",
+    "provinceName": "海南省",
+    "sortLetters": "S",
+    "sortListStr": "SYS"
+  },
+  {
+    "cityId": "ea0913ed-50aa-448a-8370-9109c7351715",
+    "cityName": "十堰市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "S",
+    "sortListStr": "SYS"
+  },
+  {
+    "cityId": "74e886bb-ec2d-47cd-8596-5e2b9a41607a",
+    "cityName": "松原市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "S",
+    "sortListStr": "SYS"
+  },
+  {
+    "cityId": "04061f5a-3190-4b61-bdc6-12c77d276b89",
+    "cityName": "沈阳市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "S",
+    "sortListStr": "SYS"
+  },
+  {
+    "cityId": "a88d1e25-1403-453a-b33d-247c7775b067",
+    "cityName": "邵阳市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "S",
+    "sortListStr": "SYS"
+  },
+  {
+    "cityId": "338f89e5-156b-4205-9e34-8fd2879d806f",
+    "cityName": "双鸭山市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "S",
+    "sortListStr": "SYSS"
+  },
+  {
+    "cityId": "c42324d7-0ccc-4929-8a3f-900b699be790",
+    "cityName": "深圳市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "S",
+    "sortListStr": "SZS"
+  },
+  {
+    "cityId": "c1457a45-41e3-4ecc-a157-b7bd8bf4f4f4",
+    "cityName": "随州市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "S",
+    "sortListStr": "SZS"
+  },
+  {
+    "cityId": "4a864e7e-5fa4-48a1-b840-19707301197e",
+    "cityName": "宿州市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "S",
+    "sortListStr": "SZS"
+  },
+  {
+    "cityId": "32ed1176-5960-4749-a034-d07dbe314ca6",
+    "cityName": "苏州市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "S",
+    "sortListStr": "SZS"
+  },
+  {
+    "cityId": "666d89b3-9f6d-4fb4-9baf-8a893998e7c9",
+    "cityName": "朔州市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "S",
+    "sortListStr": "SZS"
+  },
+  {
+    "cityId": "3a5e236b-27ee-47a8-bf05-0dc6944c18f8",
+    "cityName": "石嘴山市",
+    "dataType": 2,
+    "provinceId": "0064",
+    "provinceName": "宁夏回族自治区",
+    "sortLetters": "S",
+    "sortListStr": "SZSS"
+  },
+  {
+    "cityId": "261cf8a2-9cbf-4cf5-875c-e101e60d99ed",
+    "cityName": "泰安市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "T",
+    "sortListStr": "TAS"
+  },
+  {
+    "cityId": "0f2f4670-6283-45e5-af21-94491c16b1c4",
+    "cityName": "塔城地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "T",
+    "sortListStr": "TCDQ"
+  },
+  {
+    "cityId": "96b0ee6a-8c15-4e17-948f-6dac92cb7cae",
+    "cityName": "铜川市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "T",
+    "sortListStr": "TCS"
+  },
+  {
+    "cityId": "cd711677-4415-4c98-b925-95393c2bf436",
+    "cityName": "通化市",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "T",
+    "sortListStr": "THS"
+  },
+  {
+    "cityId": "7203523b-01b4-4052-82bb-775d5d04952f",
+    "cityName": "天津市",
+    "dataType": 2,
+    "provinceId": "0012",
+    "provinceName": "天津",
+    "sortLetters": "T",
+    "sortListStr": "TJS"
+  },
+  {
+    "cityId": "e471d605-826b-444d-a0c0-46fe5cbac943",
+    "cityName": "吐鲁番地区",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "T",
+    "sortListStr": "TLFDQ"
+  },
+  {
+    "cityId": "eca70a5c-547d-41fd-8a22-e7cd2886b04b",
+    "cityName": "通辽市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "T",
+    "sortListStr": "TLS"
+  },
+  {
+    "cityId": "23d6f24a-a0df-44e6-bde9-f923aa5bc907",
+    "cityName": "铜陵市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "T",
+    "sortListStr": "TLS"
+  },
+  {
+    "cityId": "b4fe6a75-0689-4c21-aa42-3134b2010e99",
+    "cityName": "铁岭市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "T",
+    "sortListStr": "TLS"
+  },
+  {
+    "cityId": "b4fe6a75-0689-4c21-aa42-3134b2010se99",
+    "cityName": "图木舒克市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "T",
+    "sortListStr": "TMSK"
+  },
+  {
+    "cityId": "c1e92ffd-f662-462c-93d9-4e88bad214d2",
+    "cityName": "铜仁地区",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "T",
+    "sortListStr": "TRDQ"
+  },
+  {
+    "cityId": "e3ce1dfe-25ba-40d2-96eb-174916297f35",
+    "cityName": "唐山市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "T",
+    "sortListStr": "TSS"
+  },
+  {
+    "cityId": "68e27db2-8928-46f1-b50b-6bbafcd5a41d",
+    "cityName": "天水市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "T",
+    "sortListStr": "TSS"
+  },
+  {
+    "cityId": "143f8bf0-82e1-4768-89fd-3ffa103cfb74",
+    "cityName": "太原市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "T",
+    "sortListStr": "TYS"
+  },
+  {
+    "cityId": "38ae5f8e-c5ec-48ab-b01e-c6a0baca0f55",
+    "cityName": "台州市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "T",
+    "sortListStr": "TZS"
+  },
+  {
+    "cityId": "18f38636-c894-44cb-97c8-e45142993b0a",
+    "cityName": "泰州市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "T",
+    "sortListStr": "TZS"
+  },
+  {
+    "cityId": "f50dab6d-c95b-4b3c-87b4-0571f02b80e2",
+    "cityName": "潍坊市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "W",
+    "sortListStr": "WFS"
+  },
+  {
+    "cityId": "dc2c5dec-fca0-4e10-ad9d-88b2e70f9e0b",
+    "cityName": "威海市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "W",
+    "sortListStr": "WHS"
+  },
+  {
+    "cityId": "f2da9bf7-27dc-4f84-a776-b99d2dad71f5",
+    "cityName": "武汉市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "W",
+    "sortListStr": "WHS"
+  },
+  {
+    "cityId": "a7fc0fa2-4982-47ca-8fee-6cc4cae22fe6",
+    "cityName": "乌海市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "W",
+    "sortListStr": "WHS"
+  },
+  {
+    "cityId": "6e451140-b303-4aa1-a20b-d507c855cbd2",
+    "cityName": "芜湖市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "W",
+    "sortListStr": "WHS"
+  },
+  {
+    "cityId": "6e451140-b303-4aa1-a20b-d507c855cbd2",
+    "cityName": "五家渠市",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "W",
+    "sortListStr": "WJQS"
+  },
+  {
+    "cityId": "0d97a16b-4683-4f83-8beb-746497b51da4",
+    "cityName": "乌兰察布市",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "W",
+    "sortListStr": "WLCBS"
+  },
+  {
+    "cityId": "95e02f24-b82a-44bc-926d-c66bf54678a1",
+    "cityName": "乌鲁木齐市",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "W",
+    "sortListStr": "WLMQS"
+  },
+  {
+    "cityId": "5c3365b4-7414-4d24-a21b-d72810be95f0",
+    "cityName": "渭南市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "W",
+    "sortListStr": "WNS"
+  },
+  {
+    "cityId": "302d0a3e-2c11-4618-a7ea-4a2beffae5af",
+    "cityName": "文山壮族苗族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "W",
+    "sortListStr": "WSZZMZZZZ"
+  },
+  {
+    "cityId": "7fcda938-803c-4528-9c6d-dfc1bd233689",
+    "cityName": "武威市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "W",
+    "sortListStr": "WWS"
+  },
+  {
+    "cityId": "950c8ea4-103e-48c3-834b-88e3c2abc402",
+    "cityName": "无锡市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "W",
+    "sortListStr": "WXS"
+  },
+  {
+    "cityId": "06641d5b-e8a5-4847-a06d-7310188548f9",
+    "cityName": "梧州市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "W",
+    "sortListStr": "WZS"
+  },
+  {
+    "cityId": "9c6beebd-0aac-43ac-80c1-1b8d3d0bb483",
+    "cityName": "吴忠市",
+    "dataType": 2,
+    "provinceId": "0064",
+    "provinceName": "宁夏回族自治区",
+    "sortLetters": "W",
+    "sortListStr": "WZS"
+  },
+  {
+    "cityId": "6f3549a9-cd21-4643-89a9-44e09180dfee",
+    "cityName": "温州市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "W",
+    "sortListStr": "WZS"
+  },
+  {
+    "cityId": "05f3a1fb-263a-47b5-bc41-e7ea70919573",
+    "cityName": "兴安盟",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "X",
+    "sortListStr": "XAM"
+  },
+  {
+    "cityId": "001f31d3-4cf0-4fba-8a65-27344053f422",
+    "cityName": "西安市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "X",
+    "sortListStr": "XAS"
+  },
+  {
+    "cityId": "8075dd62-b2b8-4dc7-b2ac-ced0ee7d7618",
+    "cityName": "许昌市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "X",
+    "sortListStr": "XCS"
+  },
+  {
+    "cityId": "86275ac2-cb68-4607-8f41-c09956c3bab6",
+    "cityName": "宣城市",
+    "dataType": 2,
+    "provinceId": "0034",
+    "provinceName": "安徽省",
+    "sortLetters": "X",
+    "sortListStr": "XCS"
+  },
+  {
+    "cityId": "2629ca47-5db0-4549-9654-aa704d6a04b8",
+    "cityName": "襄樊市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "X",
+    "sortListStr": "XFS"
+  },
+  {
+    "cityId": "e9ca6cc6-31d9-44b6-bfb1-d000453992b3",
+    "cityName": "孝感市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "X",
+    "sortListStr": "XGS"
+  },
+  {
+    "cityId": "ae5ef87a-dd23-4139-bee2-6472ea8acf23",
+    "cityName": "香港特别行政区",
+    "dataType": 2,
+    "provinceId": "abf30916-9972-41cb-814e-24eac24e8ce6",
+    "provinceName": "香港特别行政区",
+    "sortLetters": "X",
+    "sortListStr": "XGTBXZQ"
+  },
+  {
+    "cityId": "43028025-6c98-4edd-8385-b0604cb5e145",
+    "cityName": "锡林郭勒盟",
+    "dataType": 2,
+    "provinceId": "0015",
+    "provinceName": "内蒙古自治区",
+    "sortLetters": "X",
+    "sortListStr": "XLGLM"
+  },
+  {
+    "cityId": "a3521055-25db-4106-8cb3-6ef1e3bde788",
+    "cityName": "厦门市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "X",
+    "sortListStr": "XMS"
+  },
+  {
+    "cityId": "49aa2eb9-03c8-42f0-8331-766a03ba24aa",
+    "cityName": "西宁市",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "X",
+    "sortListStr": "XNS"
+  },
+  {
+    "cityId": "6fdf8a3d-7f1b-442d-a66a-eae7e892e4e3",
+    "cityName": "咸宁市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "X",
+    "sortListStr": "XNS"
+  },
+  {
+    "cityId": "da105cd2-f200-4fe0-8bc9-472ee8a7a3b8",
+    "cityName": "西双版纳傣族自治州",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "X",
+    "sortListStr": "XSBNDZZZZ"
+  },
+  {
+    "cityId": "6fd237e0-3887-478f-952c-07d35fe8f07c",
+    "cityName": "邢台市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "X",
+    "sortListStr": "XTS"
+  },
+  {
+    "cityId": "e0bedbbe-47ee-486a-8b66-1287b93d0a2b",
+    "cityName": "湘潭市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "X",
+    "sortListStr": "XTS"
+  },
+  {
+    "cityId": "04c60821-4682-4d78-a290-da8a2c0acd9a",
+    "cityName": "新乡市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "X",
+    "sortListStr": "XXS"
+  },
+  {
+    "cityId": "3908d33d-49d5-4b0d-9662-6db67069625b",
+    "cityName": "湘西土家族苗族自治州",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "X",
+    "sortListStr": "XXTJZMZZZZ"
+  },
+  {
+    "cityId": "d53c7c01-05d0-4035-852e-f40a341882ef",
+    "cityName": "咸阳市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "X",
+    "sortListStr": "XYS"
+  },
+  {
+    "cityId": "64516a4d-864d-4075-b331-b036afe2084c",
+    "cityName": "新余市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "X",
+    "sortListStr": "XYS"
+  },
+  {
+    "cityId": "5d1b9efb-c41a-4178-b693-7ab5889057ca",
+    "cityName": "信阳市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "X",
+    "sortListStr": "XYS"
+  },
+  {
+    "cityId": "74c98897-6588-4e2b-9edf-1de7aa18bef9",
+    "cityName": "徐州市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "X",
+    "sortListStr": "XZS"
+  },
+  {
+    "cityId": "ed6af995-d759-44f4-b5db-1e678b01f5bb",
+    "cityName": "忻州市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "X",
+    "sortListStr": "XZS"
+  },
+  {
+    "cityId": "d7f5202d-404c-411f-8ec1-ce4a6169ff68",
+    "cityName": "延安市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "Y",
+    "sortListStr": "YAS"
+  },
+  {
+    "cityId": "0562106a-4304-45e7-84af-ba6fd8fa8fc6",
+    "cityName": "雅安市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "Y",
+    "sortListStr": "YAS"
+  },
+  {
+    "cityId": "00d4a630-f0ed-4f6b-a03e-492af4e16ef5",
+    "cityName": "延边朝鲜族自治州",
+    "dataType": 2,
+    "provinceId": "0022",
+    "provinceName": "吉林省",
+    "sortLetters": "Y",
+    "sortListStr": "YBCXZZZZ"
+  },
+  {
+    "cityId": "7eb8fa5e-ccae-45a6-b341-027c6b9fa469",
+    "cityName": "宜宾市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "Y",
+    "sortListStr": "YBS"
+  },
+  {
+    "cityId": "57f9ae23-dc40-4771-b787-9d2a59e4e4d9",
+    "cityName": "银川市",
+    "dataType": 2,
+    "provinceId": "0064",
+    "provinceName": "宁夏回族自治区",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "aa7f5ada-0fa6-45d4-9d98-479c43ce3964",
+    "cityName": "伊春市",
+    "dataType": 2,
+    "provinceId": "0023",
+    "provinceName": "黑龙江省",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "d911bb0e-f9ae-4494-910e-1c2c45e906f2",
+    "cityName": "宜春市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "788a3c5e-d63d-40c2-8d19-3fdb26514a16",
+    "cityName": "宜昌市",
+    "dataType": 2,
+    "provinceId": "0042",
+    "provinceName": "湖北省",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "551c7d77-ebfc-47cd-bcfa-bc888187a82d",
+    "cityName": "盐城市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "403c0130-b016-4ea5-acc7-9a5a68a31653",
+    "cityName": "运城市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "Y",
+    "sortListStr": "YCS"
+  },
+  {
+    "cityId": "106a7194-3489-4a8f-92f8-0ff5ebbcffb8",
+    "cityName": "云浮市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Y",
+    "sortListStr": "YFS"
+  },
+  {
+    "cityId": "82636d8e-2820-4fb3-b57b-4b2d11780801",
+    "cityName": "阳江市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Y",
+    "sortListStr": "YJS"
+  },
+  {
+    "cityId": "b5d085d6-cf5f-4067-a4af-fbffe4ad3074",
+    "cityName": "营口市",
+    "dataType": 2,
+    "provinceId": "0021",
+    "provinceName": "辽宁省",
+    "sortLetters": "Y",
+    "sortListStr": "YKS"
+  },
+  {
+    "cityId": "462a6b1f-b5a5-4350-895c-018ad47721ac",
+    "cityName": "伊犁哈萨克自治州",
+    "dataType": 2,
+    "provinceId": "0065",
+    "provinceName": "新疆维吾尔自治区",
+    "sortLetters": "Y",
+    "sortListStr": "YLHSKZZZ"
+  },
+  {
+    "cityId": "17e7c191-4e51-4aa4-bdf7-e6f79acf827c",
+    "cityName": "玉林市",
+    "dataType": 2,
+    "provinceId": "0045",
+    "provinceName": "广西壮族自治区",
+    "sortLetters": "Y",
+    "sortListStr": "YLS"
+  },
+  {
+    "cityId": "17f58e4c-7bf4-41e0-b4c3-219c575c8a12",
+    "cityName": "榆林市",
+    "dataType": 2,
+    "provinceId": "0061",
+    "provinceName": "陕西省",
+    "sortLetters": "Y",
+    "sortListStr": "YLS"
+  },
+  {
+    "cityId": "afada3a8-67b3-416d-9d64-57f00b9d3512",
+    "cityName": "阳泉市",
+    "dataType": 2,
+    "provinceId": "0014",
+    "provinceName": "山西省",
+    "sortLetters": "Y",
+    "sortListStr": "YQS"
+  },
+  {
+    "cityId": "7e94ccef-0781-46ec-81c5-7fe7c83bbcf2",
+    "cityName": "玉树藏族自治州",
+    "dataType": 2,
+    "provinceId": "0063",
+    "provinceName": "青海省",
+    "sortLetters": "Y",
+    "sortListStr": "YSCZZZZ"
+  },
+  {
+    "cityId": "eba6bee6-5fe5-4a0d-bde8-0f373cea9ccd",
+    "cityName": "烟台市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "Y",
+    "sortListStr": "YTS"
+  },
+  {
+    "cityId": "94fc4746-af21-4099-b414-feec114b7dfb",
+    "cityName": "鹰潭市",
+    "dataType": 2,
+    "provinceId": "0036",
+    "provinceName": "江西省",
+    "sortLetters": "Y",
+    "sortListStr": "YTS"
+  },
+  {
+    "cityId": "e5eed04e-baf0-4e77-acd6-9e3fe68fbfbf",
+    "cityName": "玉溪市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "Y",
+    "sortListStr": "YXS"
+  },
+  {
+    "cityId": "4bee87dd-4a0c-4253-86e0-c0b42e5fb7fe",
+    "cityName": "益阳市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "Y",
+    "sortListStr": "YYS"
+  },
+  {
+    "cityId": "29de749c-e03d-4530-8fd3-5d82fb936e94",
+    "cityName": "岳阳市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "Y",
+    "sortListStr": "YYS"
+  },
+  {
+    "cityId": "6f15ab2f-4132-4a31-9e95-ee7920d39290",
+    "cityName": "扬州市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "Y",
+    "sortListStr": "YZS"
+  },
+  {
+    "cityId": "2f1747e4-f079-4aed-87f2-3fcfe47f901a",
+    "cityName": "永州市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "Y",
+    "sortListStr": "YZS"
+  },
+  {
+    "cityId": "78956740-b4f1-4120-aabb-39f6abb0f0f7",
+    "cityName": "淄博市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZBS"
+  },
+  {
+    "cityId": "631afada-1f81-4af4-b6fd-b45af91145d3",
+    "cityName": "诸城市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZCS"
+  },
+  {
+    "cityId": "ecd6ec22-b762-4464-a04c-de4171ad595d",
+    "cityName": "自贡市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "Z",
+    "sortListStr": "ZGS"
+  },
+  {
+    "cityId": "bb917ed7-331e-4837-94bb-c8edeb61321a",
+    "cityName": "珠海市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZHS"
+  },
+  {
+    "cityId": "1a8de372-716b-4d83-b065-9138b22f1798",
+    "cityName": "张家界市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZJJS"
+  },
+  {
+    "cityId": "aa4ea828-9694-4a0e-ada4-94278586204e",
+    "cityName": "张家口市",
+    "dataType": 2,
+    "provinceId": "0013",
+    "provinceName": "河北省",
+    "sortLetters": "Z",
+    "sortListStr": "ZJKS"
+  },
+  {
+    "cityId": "feed34bd-0081-4161-a6de-9ff498c1a310",
+    "cityName": "湛江市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZJS"
+  },
+  {
+    "cityId": "74cfa48a-8fc2-47c0-a443-5222c832000c",
+    "cityName": "镇江市",
+    "dataType": 2,
+    "provinceId": "0032",
+    "provinceName": "江苏省",
+    "sortLetters": "Z",
+    "sortListStr": "ZJS"
+  },
+  {
+    "cityId": "ee4776d0-2ac0-46f4-89ca-29e2aa73a16b",
+    "cityName": "周口市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZKS"
+  },
+  {
+    "cityId": "8be92b40-e74f-48ea-8161-5c3c70468ab7",
+    "cityName": "驻马店市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZMDS"
+  },
+  {
+    "cityId": "bdba0f6f-35cf-456e-808c-567b53be0ba6",
+    "cityName": "肇庆市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZQS"
+  },
+  {
+    "cityId": "035c8acb-b607-46f9-a01f-ede1aa1184c8",
+    "cityName": "舟山市",
+    "dataType": 2,
+    "provinceId": "0033",
+    "provinceName": "浙江省",
+    "sortLetters": "Z",
+    "sortListStr": "ZSS"
+  },
+  {
+    "cityId": "6f737af5-7142-4e7f-a734-f0272c881c4e",
+    "cityName": "中山市",
+    "dataType": 2,
+    "provinceId": "0044",
+    "provinceName": "广东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZSS"
+  },
+  {
+    "cityId": "a633975d-3494-40fb-afa1-5612324ce687",
+    "cityName": "昭通市",
+    "dataType": 2,
+    "provinceId": "0053",
+    "provinceName": "云南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZTS"
+  },
+  {
+    "cityId": "3cb6b6fa-f9e5-4ee1-8be7-45271a882d31",
+    "cityName": "中卫市",
+    "dataType": 2,
+    "provinceId": "0064",
+    "provinceName": "宁夏回族自治区",
+    "sortLetters": "Z",
+    "sortListStr": "ZWS"
+  },
+  {
+    "cityId": "be0c0d6f-3ce0-4067-9f20-97b0352e4982",
+    "cityName": "遵义市",
+    "dataType": 2,
+    "provinceId": "0052",
+    "provinceName": "贵州省",
+    "sortLetters": "Z",
+    "sortListStr": "ZYS"
+  },
+  {
+    "cityId": "5803e1a6-079b-424d-b930-c8f0e1f63738",
+    "cityName": "张掖市",
+    "dataType": 2,
+    "provinceId": "0062",
+    "provinceName": "甘肃省",
+    "sortLetters": "Z",
+    "sortListStr": "ZYS"
+  },
+  {
+    "cityId": "67cef868-7299-407f-9e38-1df737c5ad61",
+    "cityName": "资阳市",
+    "dataType": 2,
+    "provinceId": "0051",
+    "provinceCode": "SCH",
+    "provinceName": "四川省",
+    "sortLetters": "Z",
+    "sortListStr": "ZYS"
+  },
+  {
+    "cityId": "09013e76-4561-4de5-b431-5e1cf75228a0",
+    "cityName": "枣庄市",
+    "dataType": 2,
+    "provinceId": "0037",
+    "provinceName": "山东省",
+    "sortLetters": "Z",
+    "sortListStr": "ZZS"
+  },
+  {
+    "cityId": "325ec6fe-92c2-488c-8194-35dd0d301491",
+    "cityName": "郑州市",
+    "dataType": 2,
+    "provinceId": "0041",
+    "provinceName": "河南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZZS"
+  },
+  {
+    "cityId": "e480f44e-9692-4a11-b9b8-5f4cbc21682b",
+    "cityName": "漳州市",
+    "dataType": 2,
+    "provinceId": "0035",
+    "provinceName": "福建省",
+    "sortLetters": "Z",
+    "sortListStr": "ZZS"
+  },
+  {
+    "cityId": "0ef9d878-f247-495d-b157-8b58b80e56af",
+    "cityName": "株洲市",
+    "dataType": 2,
+    "provinceId": "0043",
+    "provinceName": "湖南省",
+    "sortLetters": "Z",
+    "sortListStr": "ZZS"
+  }
+]

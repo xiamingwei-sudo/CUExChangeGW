@@ -34,4 +34,5 @@ TODO: Add long description of the pod here.
     s.dependency "Fate/Logger"
     s.dependency "GTMBase64"
     s.dependency "swiftScan", '~> 1.2.1'
+    s.dependency "MBProgressHUD"
 end
